@@ -1,2 +1,2 @@
-# weather-app
-Weather app created by the blend of HTML, CSS and Javascript.
+# Weather-App
+Weather Application created by the blend of HTML, CSS and Javascript.
